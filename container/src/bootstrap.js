@@ -1,2 +1,2 @@
 import "productsApp/productsInfo";
-console.log("container");
+import "cartApp/cartInfo";
